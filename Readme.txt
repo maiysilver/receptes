@@ -7,4 +7,4 @@ Llista de receptes:
 
 1- Melonpan -->  https://raw.githack.com/maiysilver/receptes/master/Melonpan.txt
 
-2- Cocopan -->
+2- Cocopan -->  https://raw.githack.com/maiysilver/receptes/master/Cocopan.txt
