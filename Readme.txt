@@ -5,6 +5,6 @@ Per crear un repositori li donam a new, omplim nom, descripcio, seleccionam publ
 
 Llista de receptes:
 
-1- Melonpan -->  
+1- Melonpan -->  https://raw.githack.com/maiysilver/receptes/master/Melonpan.txt
 
 2- Cocopan -->
